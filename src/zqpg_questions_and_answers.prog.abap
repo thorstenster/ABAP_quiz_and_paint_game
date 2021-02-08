@@ -41,3 +41,11 @@
 * They are program directives and can be used to hide warnings of various checking tools.
 *
 * 3
+*
+* ### What is a Conversion Exit?
+*
+* An extension-point for customer-specific currency conversion logic.
+* A Unicode-enabled BAdI implementation.
+* Two function modules to convert field values between their internal and external representation.
+*
+* 3
